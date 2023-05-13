@@ -1,4 +1,5 @@
 # Random Color Generator App
 The iOS app, built with Swift and SwiftUI, generates random sets of colors. It offers an interactive and visually appealing experience, allowing users to explore and discover new color combinations effortlessly.
 
-![ColorGenerator](https://github.com/bikash-789/Random-Color-Generator/assets/63906998/f09fb91a-922d-41e8-b5e3-f7d3872a40f9)
+![ColorGenerator](https://github.com/bikash-789/Random-Color-Generator/assets/63906998/75f9f362-9773-461d-a4e7-0f9d490e1943)
+
